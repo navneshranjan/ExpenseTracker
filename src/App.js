@@ -5,6 +5,7 @@ import { IncomeExpenses } from "./cpmponents/IncomeExpenses";
 import { TransactionList } from "./cpmponents/TransactionList";
 import { AddTransaction } from "./cpmponents/AddTransaction";
 import { GlobalProvider } from "./context/GlobalState";
+
 import "./App.css";
 
 function App() {
